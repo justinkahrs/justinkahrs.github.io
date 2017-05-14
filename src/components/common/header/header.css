@@ -1,0 +1,24 @@
+
+@keyframes fade-in-first {
+    from {opacity: 0.0;}
+    to {opacity: 1.0;}
+}
+
+@keyframes fade-in-second {
+    from {opacity: 0.0;}
+    to {opacity: 1.0;}
+}
+
+#header {
+    font-size: 42px;
+    opacity: 1.0;
+    animation-name: fade-in-first;
+    animation-duration: 4s;
+}
+
+#subHeader {
+    font-size: 28px;
+    opacity: 1.0;
+    animation-name: fade-in-second;
+    animation-duration: 6s;
+}

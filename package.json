@@ -1,13 +1,20 @@
 {
-  "name": "justinkahrs.github.io2",
+  "name": "justinkahrs.github.io",
   "homepage": "https://justinkahrs.github.io/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "bootstrap": "^3.3.7",
     "react": "^15.5.4",
+    "react-bootstrap": "^0.31.0",
     "react-dom": "^15.5.4"
   },
   "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^5.0.1",
+    "eslint-plugin-react": "^7.0.1",
     "react-scripts": "0.9.5"
   },
   "scripts": {
