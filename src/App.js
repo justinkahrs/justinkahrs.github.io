@@ -5,7 +5,7 @@ import Header from './components/common/header/Header';
 class App extends Component {
   render() {
     return (
-      <Grid className="App" >
+      <Grid className="App" fluid>
         <Row>
           <Header main="JUSTIN KAHRS" sub="Software Engineer" />
         </Row>
