@@ -1,0 +1,14 @@
+.fade-in.third {
+    -webkit-animation-delay: 2.2s;
+    -moz-animation-delay: 2.2s;
+    animation-delay: 2.2s;
+}
+.fade-in.last {
+    -webkit-animation-delay: 3.2s;
+    -moz-animation-delay: 3.2s;
+    animation-delay: 3.2s;
+}
+
+.mainNav {
+    padding: 5em;
+}
