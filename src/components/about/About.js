@@ -1,6 +1,5 @@
 import React from 'react';
 import { Col } from 'react-bootstrap';
-import profile from './img/me-small.png';
 import './about.css';
 
 const styles = {
