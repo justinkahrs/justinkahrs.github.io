@@ -22,9 +22,9 @@ const Navigation = () => (
         </Nav>
       </Col>
       <Col lg={8}>
-        <div id="slide" className="">
+        <div className="fade-in third">
           <Route path="/about" component={About} />
-          <Route exact path="/work" component={Work} />
+          <Route path="/work" component={Work} />
           <Route path="/contact" component={Contact} />
         </div>
       </Col>
